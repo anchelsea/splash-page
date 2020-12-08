@@ -1,1 +1,1 @@
-# splash-page
+# splash-page with JS
